@@ -45,9 +45,7 @@
 </h2>
 <h2>Currently on Radar:</h2>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3s6bc3r04vc3y1fqhg4mfrdz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-
+![Spotify GitHub Profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=h7l39x9td3zx8vme06zaf2kgj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)
 
 <section style="padding: 20px;">
     <h2>✍️ Random Dev Quote</h2>
