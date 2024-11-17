@@ -12,11 +12,11 @@
 
 <body>
   <header style="background-color: #222; color: #fff; padding: 20px;">
-    <h1>💫About Me: 
-      A programmer lost in the matrix to hack the matrix.
+    <h1>About Me: 
+        A programmer lost in the matrix to hack the matrix.
         Interested in Cybersecurity.
         if=successfull{
-        printf("Never sttop learning");
+        printf("Never stop learning");
         }
         else=fail{
         printf("You come such a long way so don't let it go");
