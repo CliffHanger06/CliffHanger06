@@ -19,7 +19,7 @@
         printf("Never stop learning");
         }
         else=fail{
-        printf("You come such a long way so don't let it go");
+        printf("You come such a long way so let it go and give a fresh start");
         }
     </h1>
     <p>I’m currently learning JavaScript / Advanced Python.<br><br>All of my projects are available at <a href="https://github.com/CliffHanger06" target="_blank">GitHub</a>
