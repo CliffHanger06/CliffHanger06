@@ -13,7 +13,14 @@
 <body>
   <header style="background-color: #222; color: #fff; padding: 20px;">
     <h1>💫About Me: 
-      Self-Paced Programmer and Passionate Hacker
+      A programmer lost in the matrix to hack the matrix.
+        Interested in Cybersecurity.
+        if=successfull{
+        printf("Never sttop learning");
+        }
+        else=fail{
+        printf("You come such a long way so don't let it go");
+        }
     </h1>
     <p>I’m currently learning JavaScript / Advanced Python.<br><br>All of my projects are available at <a href="https://github.com/CliffHanger06" target="_blank">GitHub</a>
     <p align="left">
