@@ -18,14 +18,6 @@ Welcome to my GitHub profile! I'm passionate about learning, coding, and buildin
 
 ---
 
-## ✨ Fun Animation
-
-<div align="center">
-    <img src="https://assets10.lottiefiles.com/packages/lf20_touohxv0.json" width="300px" alt="Animation">
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
