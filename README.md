@@ -5,16 +5,18 @@ Welcome to my GitHub profile! I'm passionate about learning, coding, and buildin
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently learning web development.
-- 🌱 Always learning new skills and technologies.
-- 💬 Ask me about programming, open-source contributions, or anything tech-related!
-- 📫 Reach me at **[thepranshuparth@gmail.com])**.
+- 🔭 I’m currently learning **web development**.
+- 🌱 Always exploring new skills and technologies, including **JavaScript**, **React**, and **Node.js**.
+- 💬 Ask me about **programming**, **open-source contributions**, or anything tech-related!
+- 📫 Reach me at **[thepranshuparth@gmail.com](mailto:thepranshuparth@gmail.com)**.
 
 ---
 
 ## 🚀 Skills & Tools
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+
 
 ---
 
@@ -22,14 +24,14 @@ Welcome to my GitHub profile! I'm passionate about learning, coding, and buildin
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=CliffHanger06&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CliffHanger06&theme=radical" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CliffHanger06&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ---
 
 ## 🌐 Let's Connect!
-- [LinkedIn]www.linkedin.com/in/pranshu-parth-49318a288)
-
-
----
+- [LinkedIn](https://www.linkedin.com/in/pranshu-parth-49318a288)
+- [Twitter](https://twitter.com/your_twitter_handle) *(optional)*
 
 Thanks for visiting my profile! 😄
