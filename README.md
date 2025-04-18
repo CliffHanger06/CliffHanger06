@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Pranshu Parth! 
+## 👋 Hello, I'm Pranshu Parth! 
 
 Welcome to my GitHub profile! I'm passionate about learning, coding, and building projects that make a difference. Feel free to explore my repositories and get in touch if you'd like to collaborate.
 
