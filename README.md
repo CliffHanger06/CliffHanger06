@@ -35,7 +35,6 @@ Welcome to my GitHub profile! I'm passionate about learning, coding, and buildin
 ## 🤝 Let's Connect!
 
 🔗 [LinkedIn](https://linkedin.com/in/your-link) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24px" style="vertical-align:middle;" />
-
 🌐 [Portfolio]((https://thepranshparth.vercel.app/))
 
 
