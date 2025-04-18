@@ -32,9 +32,11 @@ Welcome to my GitHub profile! I'm passionate about learning, coding, and buildin
 </div>
 
 ---
+## 🤝 Let's Connect!
 
-## 🌐 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/pranshu-parth-49318a288)
+🔗 [LinkedIn](https://linkedin.com/in/your-link) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24px" style="vertical-align:middle;" />
+
+🌐 [Portfolio]((https://thepranshparth.vercel.app/))
 
 
 Thanks for visiting my profile! 😄
