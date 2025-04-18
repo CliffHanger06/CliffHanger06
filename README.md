@@ -32,6 +32,6 @@ Welcome to my GitHub profile! I'm passionate about learning, coding, and buildin
 
 ## 🌐 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/pranshu-parth-49318a288)
-- [Twitter](https://twitter.com/your_twitter_handle) *(optional)*
+
 
 Thanks for visiting my profile! 😄
