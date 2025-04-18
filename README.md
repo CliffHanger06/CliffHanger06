@@ -4,11 +4,13 @@ Welcome to my GitHub profile! I'm passionate about learning, coding, and buildin
 
 ---
 
-## 🌟 About Me
-- 🔭 I’m currently learning **web development**.
-- 🌱 Always exploring new skills and technologies, including **JavaScript**, **React**, and **Node.js**.
+## 🧠 About Me
+-🎓 2nd-year Engineering Student (Last semester!)
+-  💻 Currently learning: **Web & App Development**
+- 🌱 Always exploring new skills and technologies, including **JavaScript**, **React**.
 - 💬 Ask me about **programming**, **open-source contributions**, or anything tech-related!
 - 📫 Reach me at **[thepranshuparth@gmail.com](mailto:thepranshuparth@gmail.com)**.
+
 
 ---
 
